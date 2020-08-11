@@ -36,4 +36,6 @@ int main()
     Archivo_busqueda << "El elemento no ha sido encontrado";
   }
   cout << "Elemento esta en " << a[k] << '\n';
+  Archivo_busqueda.close();
+  return 0;
 }
