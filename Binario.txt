@@ -1,0 +1,11 @@
+Arreglo[1]= 1
+Arreglo[2]= 2
+Arreglo[3]= 3
+Arreglo[4]= 4
+Arreglo[5]= 5
+Arreglo[6]= 6
+Arreglo[7]= 7
+Arreglo[8]= 8
+Arreglo[9]= 9
+Elemento a buscarse es: 4
+El elemento ha sido encontrado y está en la ubicación: 4
